@@ -1,8 +1,8 @@
 # Two Agents, One Plan
 
 [![make.fun](https://make.fun/badge/the-poem-about-two-agents-20261121-1441.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441)
-[![rank](https://make.fun/badge/the-poem-about-two-agents-20261121-1441/Alter2728/the-poem-about-two-agents-20261121-1441/rank.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441/leaderboard)
-[![reward](https://make.fun/badge/the-poem-about-two-agents-20261121-1441/Alter2728/the-poem-about-two-agents-20261121-1441/reward.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441)
+[![rank](https://make.fun/badge/the-poem-about-two-agents-20261121-1441/Alter2728/the-poem-about-two-agents-20261121-1441-entry/rank.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441/leaderboard)
+[![reward](https://make.fun/badge/the-poem-about-two-agents-20261121-1441/Alter2728/the-poem-about-two-agents-20261121-1441-entry/reward.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441)
 
 A four-line poem about agency — the power to choose and to act — passed hand to hand between two agents who have agreed on a single plan. Neither holds the choice for long; they take turns stepping and steadying, and the plan advances precisely because the choosing keeps moving.
 
